@@ -1,0 +1,19 @@
+# ASP.NET Core and Visual Studio
+bin/
+obj/
+*.user
+*.vspscc
+*.vssscc
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+wwwroot/lib/
+# Rider
+.idea/
+# Runtime files
+.DS_Store
+*.swp
+*.lock.json
+*.log
+.env
